@@ -1,0 +1,158 @@
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\DotNetPortfolio.dll.config
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\DotNetPortfolio.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\DotNetPortfolio.pdb
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csc.exe
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csc.exe.config
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csc.rsp
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csi.exe
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csi.exe.config
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csi.rsp
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.AppContext.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Console.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Globalization.Calendars.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.Compression.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Net.Http.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Net.Sockets.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.ValueTuple.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.XPath.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\vbc.exe
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\vbc.exe.config
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\vbc.rsp
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\VBCSCompiler.exe
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\Antlr3.Runtime.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\Newtonsoft.Json.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Helpers.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Mvc.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Optimization.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Razor.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Deployment.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Razor.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\WebGrease.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Helpers.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Mvc.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Optimization.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Razor.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Deployment.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Razor.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\Newtonsoft.Json.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\Antlr3.Runtime.pdb
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.csproj.AssemblyReference.cache
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.csproj.CoreCompileInputs.cache
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPo.74D08861.Up2Date
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.dll
+C:\WOrksPace\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.pdb
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\DotNetPortfolio.dll.config
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\DotNetPortfolio.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\DotNetPortfolio.pdb
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csc.exe
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csc.exe.config
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csc.rsp
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csi.exe
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csi.exe.config
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\csi.rsp
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.Managed.Core.targets
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.AppContext.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Collections.Immutable.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Console.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Globalization.Calendars.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.Compression.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.Compression.ZipFile.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.FileSystem.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Net.Http.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Net.Sockets.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Reflection.Metadata.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.ValueTuple.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.XmlDocument.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.XPath.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\vbc.exe
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\vbc.exe.config
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\vbc.rsp
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\VBCSCompiler.exe
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\roslyn\VBCSCompiler.exe.config
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\Antlr3.Runtime.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\Microsoft.Web.Infrastructure.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\Newtonsoft.Json.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Helpers.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Mvc.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Optimization.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Razor.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Deployment.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Razor.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\WebGrease.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Helpers.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Mvc.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Optimization.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.Razor.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Deployment.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\System.Web.WebPages.Razor.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\Newtonsoft.Json.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\Antlr3.Runtime.pdb
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.csproj.AssemblyReference.cache
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.csproj.CoreCompileInputs.cache
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPo.74D08861.Up2Date
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.dll
+A:\CODE Files\VS 2022\DotNet\DotNetPortfolio\obj\Debug\DotNetPortfolio.pdb
