@@ -1,0 +1,30 @@
+﻿<h2>LogIn</h2>
+@{ 
+    if(ViewBag.message != null)
+    {
+         <h1>@ViewBag.message</h1>
+    }
+    else
+    {
+        <h1>Not Submitted Yet</h1>
+    }
+}
+
+<form method="post">
+
+    @*@Html.ValidationSummary()*@
+
+    <input type="text" name="Name" placeholder="Name" class="form-control" />
+    <span>@Html.ValidationMessage("Name")</span>
+    <input type="text" name="UserName" placeholder="Username" class="form-control" />
+    <span>@Html.ValidationMessage("UserName")</span>
+    <input type="text" name="Id" placeholder="ID" class="form-control" />
+    <span>@Html.ValidationMessage("Id")</span>
+    <input type="date" name="Dob" placeholder="Date of birth" class="form-control" />
+    <span>@Html.ValidationMessage("Dob")</span>
+    <input type="text" name="Email" placeholder="Email" class="form-control" />
+    <span>@Html.ValidationMessage("Email")</span><br />
+    <input type="submit" value="Register" class="btn btn-success" /><br />
+
+</form>
+

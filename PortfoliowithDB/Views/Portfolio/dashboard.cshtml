@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "dashboard";
+}
+
+<h2>dashboard</h2>
+
+<table>
+
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>@m.Name</td>
+            <td>@m.Email</td>
+            <td>@m.Address</td>
+            <td>
+                <a href="/Portfolio/delete/@m.id">Delete</a>
+                <a href="/Portfolio/edit/@m.id">Edit</a>
+            </td>
+        </tr>
+    }
+
+</table>

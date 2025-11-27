@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Akibs_PortfolioEntities">
+    <EntitySetMapping Name="Persoanlprojects">
+      <EntityTypeMapping TypeName="Model.Persoanlproject">
+        <MappingFragment StoreEntitySet="Persoanlprojects">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Project_name" ColumnName="Project name" />
+          <ScalarProperty Name="Project_Description" ColumnName="Project Description" />
+          <ScalarProperty Name="Project_TechStack" ColumnName="Project TechStack" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Projects">
+      <EntityTypeMapping TypeName="Model.Project">
+        <MappingFragment StoreEntitySet="Projects">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="UsedTechnoogies" ColumnName="UsedTechnoogies" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

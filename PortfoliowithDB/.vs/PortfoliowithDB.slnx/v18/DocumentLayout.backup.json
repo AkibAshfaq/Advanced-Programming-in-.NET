@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|a:\\code files\\vs 2022\\portfolio\\portfoliowithdb\\views\\portfolio\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|solutionrelative:views\\portfolio\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|a:\\code files\\vs 2022\\portfolio\\portfoliowithdb\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|solutionrelative:controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|a:\\code files\\vs 2022\\portfolio\\portfoliowithdb\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|solutionrelative:views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|a:\\code files\\vs 2022\\portfolio\\portfoliowithdb\\views\\portfolio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|solutionrelative:views\\portfolio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|a:\\code files\\vs 2022\\portfolio\\portfoliowithdb\\ef\\information.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|solutionrelative:ef\\information.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|a:\\code files\\vs 2022\\portfolio\\portfoliowithdb\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A34BD1-DD16-4F82-8001-F60DD5B530A4}|PortfoliowithDB.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Views\\Portfolio\\edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\edit.cshtml",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Views\\Portfolio\\edit.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T19:23:01.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.cshtml",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Views\\Portfolio\\dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\dashboard.cshtml",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Views\\Portfolio\\dashboard.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T18:50:22.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "information.edmx [Diagram1]",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\EF\\information.edmx",
+              "RelativeDocumentMoniker": "EF\\information.edmx",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\EF\\information.edmx [Diagram1]",
+              "RelativeToolTip": "EF\\information.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-27T18:46:32.38Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T17:40:05.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cs",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Models\\login.cs",
+              "RelativeDocumentMoniker": "Models\\login.cs",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Models\\login.cs",
+              "RelativeToolTip": "Models\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:37:38.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PortfolioController.cs",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Portfolio\\PortfoliowithDB\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:33:33.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
