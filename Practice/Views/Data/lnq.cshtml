@@ -1,0 +1,61 @@
+﻿<a href="/Data/Index"><button type="button" class="btn btn-primary">Index</button></a>
+<a href="/Data/Formprocess"><button type="button" class="btn btn-primary">Form Process</button></a>
+<a href="/Data/lnq"><button type="button" class="btn btn-primary">LINQ</button></a>
+<br />
+
+
+<h2>lnq</h2>
+
+<h4>Form Catagory</h4>
+
+<form method="post">
+
+    <select name="type" class="form-control">
+        <option value="">--- Select ---</option>
+        <option value="Form Collection">Form Collection</option>
+        <option value="Variable mapping">Variable mapping</option>
+        <option value="HTTP Request">HTTP Request</option>
+        <option value="Model Binding">Model Binding</option>
+        <option value="Edited">Edited</option>
+    </select>
+    <input type="submit" Value="Sort" class="btn btn-success" />
+
+</form>
+
+<br />
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Form Name</th>
+            <th>Name</th>
+            <th>Number</th>
+            <th>CRUD</th>
+        </tr>
+    </thead>
+    <tbody>    
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FormName</td>
+                <td>@item.Name</td>
+                <td>@item.Number</td>
+                <td>
+                    <a href="/Data/Edit/@item.FormID"><button type="button" class="btn btn-primary">Edit</button></a>
+                    <a href="/Data/Delete/@item.FormID"><button type="button" class="btn btn-primary">Remove</button></a>
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+
+
+
+
+<from>
+    <input type="text" class="form-control" name="Course" 
+</from>

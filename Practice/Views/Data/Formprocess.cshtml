@@ -1,0 +1,96 @@
+﻿
+<a href="/Data/Index"><button type="button" class="btn btn-primary">Index</button></a>
+<a href="/Data/Formprocess"><button type="button" class="btn btn-primary">Form Process</button></a>
+<a href="/Data/lnq"><button type="button" class="btn btn-primary">LINQ</button></a>
+<br />
+
+<h2>FormProcess</h2>
+<br />
+<br />
+
+<h2>Form Collection Method</h2>
+
+<form action="/Data/Formprocess" method="post">
+
+    <input type="text" name="Name" class="form-control" placeholder="Name" />
+    <input type="text" name="Number" class="form-control" placeholder="Number" />
+    <input type="hidden" name="Formname" value="Form Collection" />
+    <input type="submit" class="btn btn-success" />
+
+</form>
+
+<br />
+<br />
+
+<h2>Variable Mapping Method</h2>
+
+<form action="/Data/Vmap" method="post">
+
+    <input type="text" name="Name" class="form-control" placeholder="Name" />
+    <input type="text" name="Number" class="form-control" placeholder="Number" />
+    <input type="hidden" name="Formname" value="Variable mapping" />
+    <input type="submit" class="btn btn-success" />
+
+</form>
+
+<br />
+<br />
+
+<h2>Http Request Method</h2>
+
+<form action="/Data/hrequest" method="post">
+
+    <input type="text" name="Name" class="form-control" placeholder="Name" />
+    <input type="text" name="Number" class="form-control" placeholder="Number" />
+    <input type="hidden" name="Formname" value="HTTP Request" />
+    <input type="submit" class="btn btn-success" />
+
+</form>
+
+<br />
+<br />
+
+<h2>Model binding Method</h2>
+
+<form action="/Data/MBinding" method="post">
+
+    <input type="text" name="Name" class="form-control" placeholder="Name" />
+    @Html.ValidationMessage("Required")
+    <input type="text" name="Number" class="form-control" placeholder="Number" />
+    @Html.ValidationMessage("Required")
+    <input type="hidden" name="Formname" value="Model Binding" />
+    <input type="submit" class="btn btn-success" />
+
+</form>
+
+
+<br />
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Form Name</th>
+            <th>Name</th>
+            <th>Number</th>
+            <th>CRUD</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FormName</td>
+                <td>@item.Name</td>
+                <td>@item.Number</td>
+                <td>
+                    <a href="/Data/Edit/@item.FormID"><button type="button" class="btn btn-primary">Edit</button></a>
+                    <a href="/Data/Delete/@item.FormID"><button type="button" class="btn btn-primary">Remove</button></a>
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+
