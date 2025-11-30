@@ -2,25 +2,23 @@
 <a href="/Data/Formprocess"><button type="button" class="btn btn-primary">Form Process</button></a>
 <a href="/Data/lnq"><button type="button" class="btn btn-primary">LINQ</button></a>
 <a href="/Data/register"><button type="button" class="btn btn-primary">Registeration</button></a>
-<br />
-<h2>Index</h2>
-
-<h6>
-    This is the ViewBag Messege From Data Controller:
-    @ViewBag.Message
-</h6>
 
 <br />
 
-<h6>
-    This is the viewdata from controller:
-    @ViewData["CurrentTime"]
-</h6>
 
-<br />
+<h2>register</h2>
 
-<h6>
-    From TempData in controller:
-    @TempData["notice"]
-</h6>
+
+<form method="post">
+
+
+    @foreach (var item in Model)
+    {
+        <input type="checkbox" name="Course[]" value="@item.Cid" /> @item.CName <h6>-</h6> @item.CCapacity
+        <br />
+    }
+
+    <input type="submit" value="Register" class="btn btn-success" />
+</form>
+
 

@@ -26,5 +26,7 @@ namespace Practice.EF
         }
     
         public DbSet<FormDetail> FormDetails { get; set; }
+        public DbSet<Cours> Courses { get; set; }
+        public DbSet<Register> Registers { get; set; }
     }
 }

@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="TestModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="Cid" />
+    </Key>
+    <Property Name="Cid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CCapacity" Type="int" Nullable="false" />
+  </EntityType>
   <EntityType Name="FormDetails">
     <Key>
       <PropertyRef Name="FormID" />
@@ -9,7 +17,49 @@
     <Property Name="Name" Type="nchar" MaxLength="10" Nullable="false" />
     <Property Name="Number" Type="int" Nullable="false" />
   </EntityType>
+  <EntityType Name="Registers">
+    <Key>
+      <PropertyRef Name="Rid" />
+    </Key>
+    <Property Name="Rid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sid" Type="int" Nullable="false" />
+    <Property Name="cid" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Registers_Courses">
+    <End Role="Courses" Type="Self.Courses" Multiplicity="1" />
+    <End Role="Registers" Type="Self.Registers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="Cid" />
+      </Principal>
+      <Dependent Role="Registers">
+        <PropertyRef Name="cid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Registers_FormDetails">
+    <End Role="FormDetails" Type="Self.FormDetails" Multiplicity="1" />
+    <End Role="Registers" Type="Self.Registers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FormDetails">
+        <PropertyRef Name="FormID" />
+      </Principal>
+      <Dependent Role="Registers">
+        <PropertyRef Name="sid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
   <EntityContainer Name="TestModelStoreContainer">
+    <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="FormDetails" EntityType="Self.FormDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Registers" EntityType="Self.Registers" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Registers_Courses" Association="Self.FK_Registers_Courses">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Registers" EntitySet="Registers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Registers_FormDetails" Association="Self.FK_Registers_FormDetails">
+      <End Role="FormDetails" EntitySet="FormDetails" />
+      <End Role="Registers" EntitySet="Registers" />
+    </AssociationSet>
   </EntityContainer>
 </Schema>

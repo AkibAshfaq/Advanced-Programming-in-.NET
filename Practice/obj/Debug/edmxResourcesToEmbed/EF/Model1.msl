@@ -11,5 +11,23 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="TestModel.Cours">
+        <MappingFragment StoreEntitySet="Courses">
+          <ScalarProperty Name="CCapacity" ColumnName="CCapacity" />
+          <ScalarProperty Name="CName" ColumnName="CName" />
+          <ScalarProperty Name="Cid" ColumnName="Cid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registers">
+      <EntityTypeMapping TypeName="TestModel.Register">
+        <MappingFragment StoreEntitySet="Registers">
+          <ScalarProperty Name="cid" ColumnName="cid" />
+          <ScalarProperty Name="sid" ColumnName="sid" />
+          <ScalarProperty Name="Rid" ColumnName="Rid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
   </EntityContainerMapping>
 </Mapping>

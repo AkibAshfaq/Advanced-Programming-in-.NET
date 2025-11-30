@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\views\\data\\lnq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:views\\data\\lnq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\views\\data\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:views\\data\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|A:\\CODE Files\\VS 2022\\Assignment\\Practice\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\views\\data\\formprocess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|A:\\CODE Files\\VS 2022\\Assignment\\Practice\\views\\data\\formprocess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:views\\data\\formprocess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|A:\\CODE Files\\VS 2022\\Assignment\\Practice\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\ef\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:ef\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\ef\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:ef\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\views\\data\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:views\\data\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|a:\\code files\\vs 2022\\assignment\\practice\\views\\data\\lnq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4C507B-89BD-4626-9DC9-364863250A03}|Practice.csproj|solutionrelative:views\\data\\lnq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +42,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormModel.cs",
-              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Models\\FormModel.cs",
-              "RelativeDocumentMoniker": "Models\\FormModel.cs",
-              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Models\\FormModel.cs",
-              "RelativeToolTip": "Models\\FormModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Title": "Cours.cs",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\EF\\Cours.cs",
+              "RelativeDocumentMoniker": "EF\\Cours.cs",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\EF\\Cours.cs",
+              "RelativeToolTip": "EF\\Cours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T14:52:35.298Z",
+              "WhenOpened": "2025-11-30T16:53:57.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\EF\\Register.cs",
+              "RelativeDocumentMoniker": "EF\\Register.cs",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\EF\\Register.cs",
+              "RelativeToolTip": "EF\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:51:05.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Data\\Edit.cshtml",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Data\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T16:50:18.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lnq.cshtml",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\lnq.cshtml",
+              "RelativeDocumentMoniker": "Views\\Data\\lnq.cshtml",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\lnq.cshtml",
+              "RelativeToolTip": "Views\\Data\\lnq.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T16:49:13.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Data\\register.cshtml",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\register.cshtml",
+              "RelativeToolTip": "Views\\Data\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T16:12:09.93Z",
               "EditorCaption": ""
             },
             {
@@ -53,7 +117,7 @@
               "RelativeDocumentMoniker": "Views\\Data\\Index.cshtml",
               "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\Index.cshtml",
               "RelativeToolTip": "Views\\Data\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T14:42:58.599Z",
               "EditorCaption": ""
@@ -66,22 +130,9 @@
               "RelativeDocumentMoniker": "Views\\Data\\Formprocess.cshtml",
               "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\Formprocess.cshtml",
               "RelativeToolTip": "Views\\Data\\Formprocess.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T14:38:15.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lnq.cshtml",
-              "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\lnq.cshtml",
-              "RelativeDocumentMoniker": "Views\\Data\\lnq.cshtml",
-              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Views\\Data\\lnq.cshtml",
-              "RelativeToolTip": "Views\\Data\\lnq.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T14:36:36.652Z",
               "EditorCaption": ""
             },
             {
@@ -90,9 +141,9 @@
               "Title": "DataController.cs",
               "DocumentMoniker": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Controllers\\DataController.cs",
               "RelativeDocumentMoniker": "Controllers\\DataController.cs",
-              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Controllers\\DataController.cs",
-              "RelativeToolTip": "Controllers\\DataController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwDYAAAAkAAAAAAAAAA==",
+              "ToolTip": "A:\\CODE Files\\VS 2022\\Assignment\\Practice\\Controllers\\DataController.cs*",
+              "RelativeToolTip": "Controllers\\DataController.cs*",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwKoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T12:52:21.688Z",
               "EditorCaption": ""

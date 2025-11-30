@@ -141,6 +141,36 @@ namespace Practice.Controllers
             return View(data.ToList());
         }
 
+        [HttpGet]
+        public ActionResult register() 
+        {
+            var data = db.Courses.ToList();
+
+            return View(data);
+        }
+
+
+        [HttpPost]
+        public ActionResult register(int[] Course) 
+        { 
+
+            var sid = 2002;
+            foreach (var cid in Course)
+            {
+                db.Registers.Add(new Register
+                {
+                    sid = sid,
+                    cid = cid
+                }
+                );
+
+                db.Courses.Find(cid).CCapacity -= 1;
+            }
+
+            db.SaveChanges();
+            return RedirectToAction("register");
+        }
+
 
 
     }

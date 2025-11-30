@@ -5,6 +5,14 @@
     <!-- SSDL content -->
     <edmx:StorageModels>
     <Schema Namespace="TestModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Courses">
+          <Key>
+            <PropertyRef Name="Cid" />
+          </Key>
+          <Property Name="Cid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="CCapacity" Type="int" Nullable="false" />
+        </EntityType>
         <EntityType Name="FormDetails">
           <Key>
             <PropertyRef Name="FormID" />
@@ -14,8 +22,50 @@
           <Property Name="Name" Type="nchar" MaxLength="10" Nullable="false" />
           <Property Name="Number" Type="int" Nullable="false" />
         </EntityType>
+        <EntityType Name="Registers">
+          <Key>
+            <PropertyRef Name="Rid" />
+          </Key>
+          <Property Name="Rid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="sid" Type="int" Nullable="false" />
+          <Property Name="cid" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Registers_Courses">
+          <End Role="Courses" Type="Self.Courses" Multiplicity="1" />
+          <End Role="Registers" Type="Self.Registers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Courses">
+              <PropertyRef Name="Cid" />
+            </Principal>
+            <Dependent Role="Registers">
+              <PropertyRef Name="cid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Registers_FormDetails">
+          <End Role="FormDetails" Type="Self.FormDetails" Multiplicity="1" />
+          <End Role="Registers" Type="Self.Registers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="FormDetails">
+              <PropertyRef Name="FormID" />
+            </Principal>
+            <Dependent Role="Registers">
+              <PropertyRef Name="sid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <EntityContainer Name="TestModelStoreContainer">
+          <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="FormDetails" EntityType="Self.FormDetails" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Registers" EntityType="Self.Registers" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Registers_Courses" Association="Self.FK_Registers_Courses">
+            <End Role="Courses" EntitySet="Courses" />
+            <End Role="Registers" EntitySet="Registers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Registers_FormDetails" Association="Self.FK_Registers_FormDetails">
+            <End Role="FormDetails" EntitySet="FormDetails" />
+            <End Role="Registers" EntitySet="Registers" />
+          </AssociationSet>
         </EntityContainer>
       </Schema></edmx:StorageModels>
     <!-- CSDL content -->
@@ -23,6 +73,16 @@
       <Schema Namespace="TestModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityContainer Name="TestEntities" annotation:LazyLoadingEnabled="true" >
           <EntitySet Name="FormDetails" EntityType="TestModel.FormDetail" />
+          <EntitySet Name="Courses" EntityType="TestModel.Cours" />
+          <EntitySet Name="Registers" EntityType="TestModel.Register" />
+          <AssociationSet Name="FK_Registers_Courses" Association="TestModel.FK_Registers_Courses">
+            <End Role="Cours" EntitySet="Courses" />
+            <End Role="Register" EntitySet="Registers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Registers_FormDetails" Association="TestModel.FK_Registers_FormDetails">
+            <End Role="FormDetail" EntitySet="FormDetails" />
+            <End Role="Register" EntitySet="Registers" />
+          </AssociationSet>
         </EntityContainer>
         <EntityType Name="FormDetail">
           <Key>
@@ -32,7 +92,51 @@
           <Property Name="FormName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
           <Property Name="Number" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Registers" Relationship="TestModel.FK_Registers_FormDetails" FromRole="FormDetail" ToRole="Register" />
         </EntityType>
+        <EntityType Name="Cours">
+          <Key>
+            <PropertyRef Name="Cid" />
+          </Key>
+          <Property Name="Cid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CCapacity" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Registers" Relationship="TestModel.FK_Registers_Courses" FromRole="Cours" ToRole="Register" />
+        </EntityType>
+        <EntityType Name="Register">
+          <Key>
+            <PropertyRef Name="Rid" />
+          </Key>
+          <Property Name="Rid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="sid" Type="Int32" Nullable="false" />
+          <Property Name="cid" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Cours" Relationship="TestModel.FK_Registers_Courses" FromRole="Register" ToRole="Cours" />
+          <NavigationProperty Name="FormDetail" Relationship="TestModel.FK_Registers_FormDetails" FromRole="Register" ToRole="FormDetail" />
+        </EntityType>
+        <Association Name="FK_Registers_Courses">
+          <End Type="TestModel.Cours" Role="Cours" Multiplicity="1" />
+          <End Type="TestModel.Register" Role="Register" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cours">
+              <PropertyRef Name="Cid" />
+            </Principal>
+            <Dependent Role="Register">
+              <PropertyRef Name="cid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Registers_FormDetails">
+          <End Type="TestModel.FormDetail" Role="FormDetail" Multiplicity="1" />
+          <End Type="TestModel.Register" Role="Register" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="FormDetail">
+              <PropertyRef Name="FormID" />
+            </Principal>
+            <Dependent Role="Register">
+              <PropertyRef Name="sid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -46,6 +150,24 @@
                 <ScalarProperty Name="Name" ColumnName="Name" />
                 <ScalarProperty Name="FormName" ColumnName="FormName" />
                 <ScalarProperty Name="FormID" ColumnName="FormID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Courses">
+            <EntityTypeMapping TypeName="TestModel.Cours">
+              <MappingFragment StoreEntitySet="Courses">
+                <ScalarProperty Name="CCapacity" ColumnName="CCapacity" />
+                <ScalarProperty Name="CName" ColumnName="CName" />
+                <ScalarProperty Name="Cid" ColumnName="Cid" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Registers">
+            <EntityTypeMapping TypeName="TestModel.Register">
+              <MappingFragment StoreEntitySet="Registers">
+                <ScalarProperty Name="cid" ColumnName="cid" />
+                <ScalarProperty Name="sid" ColumnName="sid" />
+                <ScalarProperty Name="Rid" ColumnName="Rid" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

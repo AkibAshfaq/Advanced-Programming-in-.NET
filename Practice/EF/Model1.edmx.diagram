@@ -6,6 +6,10 @@
     <edmx:Diagrams>
       <Diagram DiagramId="91cfc9a0a9a14c298af787bcb17d04ea" Name="Diagram1" >
         <EntityTypeShape EntityType="TestModel.FormDetail" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TestModel.Cours" Width="1.5" PointX="0.75" PointY="3.875" />
+        <EntityTypeShape EntityType="TestModel.Register" Width="1.5" PointX="3" PointY="0.75" />
+        <AssociationConnector Association="TestModel.FK_Registers_Courses" />
+        <AssociationConnector Association="TestModel.FK_Registers_FormDetails" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

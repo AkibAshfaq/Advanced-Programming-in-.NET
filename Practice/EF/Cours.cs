@@ -12,17 +12,16 @@ namespace Practice.EF
     using System;
     using System.Collections.Generic;
     
-    public partial class FormDetail
+    public partial class Cours
     {
-        public FormDetail()
+        public Cours()
         {
             this.Registers = new HashSet<Register>();
         }
     
-        public int FormID { get; set; }
-        public string FormName { get; set; }
-        public string Name { get; set; }
-        public int Number { get; set; }
+        public int Cid { get; set; }
+        public string CName { get; set; }
+        public int CCapacity { get; set; }
     
         public virtual ICollection<Register> Registers { get; set; }
     }
