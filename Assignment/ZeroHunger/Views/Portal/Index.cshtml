@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+
+    @foreach(var item in Model)
+     {
+        <div class="RequestBox">
+
+            <h3>Resturent Name : @item.ResturentName</h3>
+            <h3>Location       : @item.ResturentLocation</h3>
+            <h3>preserve Until : @item.PreserveDate</h3>
+            <h3>Assigned To   : @item.Assigned</h3>
+
+
+            @if (item.Status == "Pending")
+            {
+                <input type="checkbox" name="employee" value=@Employee[]
+                <a href="/Portal/AssignStatus/@item.ResturentId">
+                    <input type="button" value="Assign" class="btn btn-success" />
+                </a>
+            }
+            else if (item.Status = "Assigned")
+            {
+                <a href="/Portal/CompleteStatus/@item.ResturentId">
+                    <input type="button" value="Complete" class="btn btn-success" />
+                </a>
+            }
+            else if (item.Status = "Completed")
+            {
+                <h3>Status        : @item.Status</h3>
+            }
+            else
+            {
+                <h3>Status        : Pending</h3>
+            }
+
+
+
+        </div>
+
+     }
+
+</div>

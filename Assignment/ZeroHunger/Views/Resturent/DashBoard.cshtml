@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "DashBoard";
+}
+
+<style>
+    .PageContainer {
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+
+    .RequestBlock {
+        width: 50%;
+        height: 100vh;
+        background-color: whitesmoke;
+    }
+
+    .RequestForm {
+        width: 50%;
+        height: 100vh;
+        background-color: beige;
+        padding: 30px;
+           
+     }
+
+    input{
+        margin: 10px;
+    }
+</style>
+
+<h2>DashBoard</h2>
+<div class="PageContainer">
+
+    <div class="RequestForm">
+
+        <form method="post">
+            <input type="text" name="ResturentName" class="form-control" placeholder="Restuent Name" />
+            <input type="text" name="ResturentLocation" class="form-control" placeholder="Resturent Location" />
+            <input type="datetime-local" name="PreserveDate" class="form-control" placeholder="Preserve Untill" />
+
+            <input type="number" class="form-control" name="age" />
+
+            <input type="hidden" name="Assigned" value="-" />
+            <input type="hidden" name="Status" value="Requested" />
+            <input type="submit" value="Submit request" class="btn btn-success" />
+            <input type="reset" value="Clear" class="btn btn-warning" />
+        </form>
+
+    </div>
+
+    <div class="RequestBlock">
+        @foreach(var item in Model)
+        {
+            <div>
+                <h3>Resturent Name : @item.ResturentName</h3>
+                <h3>Location       : @item.ResturentLocation</h3>
+                <h3>preserve Until : @item.PreserveDate</h3>
+
+                @*@if (item.Assigned)
+                {*@
+                    @*<h3>Assigned Employee: @item.Assigned</h3>*@
+                @*}
+                else
+                {
+                    <h3>Assigned Employee: - </h3>
+                }*@
+
+                <h3>Donation Status: @item.Status</h3>
+
+                @*<a href="/DashBoard/RequestDelete/@item.Requestid"><input type="button" value="remove" /></a>*@
+
+            </div>
+        }
+
+    </div>
+
+
+</div>
+
