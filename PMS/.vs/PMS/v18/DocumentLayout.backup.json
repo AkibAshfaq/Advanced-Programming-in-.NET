@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\views\\registration\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\views\\registration\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|a:\\git local\\akib ashfaq .dev\\advanced-programming-in-.net\\pms\\pms\\views\\dashboard\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\views\\dashboard\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\views\\order\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\views\\order\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\views\\dashboard\\makeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\views\\dashboard\\makeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\ef\\pmsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\pmsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\ef\\pmsmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\pmsmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\customvalidations\\uniqueuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\customvalidations\\uniqueuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\customvalidations\\confpassmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\customvalidations\\confpassmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\pms\\ef\\pmsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}",
+      "RelativeMoniker": "D:0:0:{0EB4D3A1-5B89-4787-BADE-A226C7080538}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\pmsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PMS\\Controllers\\HomeController.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PMS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:49.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowCart.cshtml",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Order\\ShowCart.cshtml",
+              "RelativeDocumentMoniker": "PMS\\Views\\Order\\ShowCart.cshtml",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Order\\ShowCart.cshtml",
+              "RelativeToolTip": "PMS\\Views\\Order\\ShowCart.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-12-14T17:20:49.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PMS\\Controllers\\OrderController.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PMS\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:49.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cshtml",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Dashboard\\Customer.cshtml",
+              "RelativeDocumentMoniker": "PMS\\Views\\Dashboard\\Customer.cshtml",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Dashboard\\Customer.cshtml",
+              "RelativeToolTip": "PMS\\Views\\Dashboard\\Customer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T17:20:49.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "PMS\\EF\\Product.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\Product.cs",
+              "RelativeToolTip": "PMS\\EF\\Product.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-14T17:20:50.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PMS\\Controllers\\DashboardController.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PMS\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Registration\\Login.cshtml",
+              "RelativeDocumentMoniker": "PMS\\Views\\Registration\\Login.cshtml",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Registration\\Login.cshtml",
+              "RelativeToolTip": "PMS\\Views\\Registration\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T17:20:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "PMS\\Auth\\Logged.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Auth\\Logged.cs",
+              "RelativeToolTip": "PMS\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PMSModel.Context.tt",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\PMSModel.Context.tt",
+              "RelativeDocumentMoniker": "PMS\\EF\\PMSModel.Context.tt",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\PMSModel.Context.tt",
+              "RelativeToolTip": "PMS\\EF\\PMSModel.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-14T17:20:50.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MakeOrder.cshtml",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Dashboard\\MakeOrder.cshtml",
+              "RelativeDocumentMoniker": "PMS\\Views\\Dashboard\\MakeOrder.cshtml",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Dashboard\\MakeOrder.cshtml",
+              "RelativeToolTip": "PMS\\Views\\Dashboard\\MakeOrder.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-12-14T17:20:50.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "PMS\\DTOs\\ProductDTO.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "PMS\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UniqueUName.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\CustomValidations\\UniqueUName.cs",
+              "RelativeDocumentMoniker": "PMS\\CustomValidations\\UniqueUName.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\CustomValidations\\UniqueUName.cs",
+              "RelativeToolTip": "PMS\\CustomValidations\\UniqueUName.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PMSModel.Context.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\PMSModel.Context.cs",
+              "RelativeDocumentMoniker": "PMS\\EF\\PMSModel.Context.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\PMSModel.Context.cs",
+              "RelativeToolTip": "PMS\\EF\\PMSModel.Context.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-14T17:20:50.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "PMS\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "PMS\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-12-14T17:20:50.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\Customer.cs",
+              "RelativeDocumentMoniker": "PMS\\EF\\Customer.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\Customer.cs",
+              "RelativeToolTip": "PMS\\EF\\Customer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-14T17:20:50.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "PMS\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "PMS\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "PMS\\Controllers\\RegistrationController.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "PMS\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "PMS\\DTOs\\LoginDTO.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "PMS\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfPassMatch.cs",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\CustomValidations\\ConfPassMatch.cs",
+              "RelativeDocumentMoniker": "PMS\\CustomValidations\\ConfPassMatch.cs",
+              "ToolTip": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\CustomValidations\\ConfPassMatch.cs",
+              "RelativeToolTip": "PMS\\CustomValidations\\ConfPassMatch.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:20:50.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PMSModel.edmx [Diagram1]",
+              "DocumentMoniker": "A:\\Git local\\Akib Ashfaq .dev\\Advanced-Programming-in-.NET\\PMS\\PMS\\EF\\PMSModel.edmx",
+              "RelativeDocumentMoniker": "PMS\\EF\\PMSModel.edmx",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\PMS\\PMS\\EF\\PMSModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-14T17:20:50.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
